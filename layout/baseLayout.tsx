@@ -101,7 +101,7 @@ const BaseLayout = (props: any) => {
                     <span>Хаяг: Улаанбаатар хот, Монгол улс </span>
                   </li>
                   <li>
-                    <a href="#">Утас: 8806-9998</a>
+                    <a href="#">Утас: 91057005</a>
                   </li>
                   <li>
                     <a href="#">Имэйл: info@imex.mn</a>
